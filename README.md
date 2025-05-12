@@ -25,8 +25,8 @@
 - **Gradient Boosting (gboost)**
 
 ## 📄 檔案下載
-
-- [📄 LOL How To Win report](./How%20To%20Win.pdf)
+- [📄 書面報告（Written Report）](./final_presentation.pdf)
+- [🎞️ 簡報投影片（Presentation Slides）](./How%20To%20Win.pdf)
 
 ## 🔗 參考資料
 
