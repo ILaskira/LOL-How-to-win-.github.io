@@ -26,7 +26,7 @@
 
 ## 📄 檔案下載
 
-- [📄 LOL How To Win 書面報告 PDF](./How%20To%20Win.pdf)
+- [📄 LOL How To Win report](./How%20To%20Win.pdf)
 
 ## 🔗 參考資料
 
